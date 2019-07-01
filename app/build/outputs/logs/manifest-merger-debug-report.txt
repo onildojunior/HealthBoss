@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a8d130c6f59997cb841f6cf5d9eccfe3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\6e5d184080f3270f894245672f3330d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b21c8603c7c8cd5ff6d6ee229f93ae75\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\123d35fd34dc202e5838806a9810acde\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7d18d51a76b3b3aafb8039d7bcaf3e4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\d6c40be326f6fd7d23288b3157dbccfc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7a303fe7093b96ed7e9087b9c9bbde94\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\f3954a815d05d2787a1c1bf89ec105af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\3e18e27edbde8fe2af6ba715fc91bb76\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7e294a2a7ea98453985fc32d8108eb86\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\13a9d30e180093a57c07e471266e7432\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\f521e74862e39a8a7cc96768c9479168\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\ad1cea0e60567fdf671fc8d1eb110c1f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\06cbdc2d4cc31d4b1df825770d882710\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8cd5139d05eff68ca051e90424ba0ce1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\bebcc39292279028e382a898e06369f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a87fadddeca69aaa2089c29fb23f4b97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\e82a5ceff8e1dd1257a895924ab7df9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8ae6f72c470a2a821693171c2c03eee0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\207a7b4eec6a27043b6874c8e14f29a2\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b1a1831f153932aadcd74f693e84cd5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\e59bf10f2ad47b8d34d7c5d82ccbdd93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b95c07235e9f4b584a1122afcb483a57\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\22c5be7b2406fdf474076e438b114bb6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\85e95779837446f560fde1566543d2e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\60a09e5ab1adaaba02610fee03b537a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\4dcf4145029239ba3e74f96b0b799ee4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\3439b362f8d154cf46153b223fd4b68c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a324c2bb4e33b05643ef8b96ccbc2419\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8b8b16c99676caabba5406a68019a752\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\5d9dcfe0230ec2dc719dec073fb89461\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a8d130c6f59997cb841f6cf5d9eccfe3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a8d130c6f59997cb841f6cf5d9eccfe3\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b21c8603c7c8cd5ff6d6ee229f93ae75\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b21c8603c7c8cd5ff6d6ee229f93ae75\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8ae6f72c470a2a821693171c2c03eee0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8ae6f72c470a2a821693171c2c03eee0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\207a7b4eec6a27043b6874c8e14f29a2\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\207a7b4eec6a27043b6874c8e14f29a2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8ae6f72c470a2a821693171c2c03eee0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:9:9-48
+	android:icon
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.healthboss2.Login
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:12:9-52
+	android:name
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:12:19-40
+activity#com.example.healthboss2.MarcarConsulta
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:13:9-61
+	android:name
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:13:19-49
+activity#com.example.healthboss2.Cadastro
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:14:9-46
+	android:name
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:14:19-43
+activity#com.example.healthboss2.Consulta
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:15:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.healthboss2.mainactivity.MainActivity
+ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:21:9-23:68
+	android:theme
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml:22:13-54
+uses-sdk
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a8d130c6f59997cb841f6cf5d9eccfe3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a8d130c6f59997cb841f6cf5d9eccfe3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\6e5d184080f3270f894245672f3330d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\6e5d184080f3270f894245672f3330d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b21c8603c7c8cd5ff6d6ee229f93ae75\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b21c8603c7c8cd5ff6d6ee229f93ae75\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\123d35fd34dc202e5838806a9810acde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\123d35fd34dc202e5838806a9810acde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7d18d51a76b3b3aafb8039d7bcaf3e4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7d18d51a76b3b3aafb8039d7bcaf3e4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\d6c40be326f6fd7d23288b3157dbccfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\d6c40be326f6fd7d23288b3157dbccfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7a303fe7093b96ed7e9087b9c9bbde94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7a303fe7093b96ed7e9087b9c9bbde94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\f3954a815d05d2787a1c1bf89ec105af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\f3954a815d05d2787a1c1bf89ec105af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\3e18e27edbde8fe2af6ba715fc91bb76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\3e18e27edbde8fe2af6ba715fc91bb76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7e294a2a7ea98453985fc32d8108eb86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\7e294a2a7ea98453985fc32d8108eb86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\13a9d30e180093a57c07e471266e7432\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\13a9d30e180093a57c07e471266e7432\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\f521e74862e39a8a7cc96768c9479168\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\f521e74862e39a8a7cc96768c9479168\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\ad1cea0e60567fdf671fc8d1eb110c1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\ad1cea0e60567fdf671fc8d1eb110c1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\06cbdc2d4cc31d4b1df825770d882710\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\06cbdc2d4cc31d4b1df825770d882710\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8cd5139d05eff68ca051e90424ba0ce1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8cd5139d05eff68ca051e90424ba0ce1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\bebcc39292279028e382a898e06369f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\bebcc39292279028e382a898e06369f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a87fadddeca69aaa2089c29fb23f4b97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a87fadddeca69aaa2089c29fb23f4b97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\e82a5ceff8e1dd1257a895924ab7df9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\e82a5ceff8e1dd1257a895924ab7df9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8ae6f72c470a2a821693171c2c03eee0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8ae6f72c470a2a821693171c2c03eee0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\207a7b4eec6a27043b6874c8e14f29a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\207a7b4eec6a27043b6874c8e14f29a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b1a1831f153932aadcd74f693e84cd5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b1a1831f153932aadcd74f693e84cd5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\e59bf10f2ad47b8d34d7c5d82ccbdd93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\e59bf10f2ad47b8d34d7c5d82ccbdd93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b95c07235e9f4b584a1122afcb483a57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\b95c07235e9f4b584a1122afcb483a57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\22c5be7b2406fdf474076e438b114bb6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\22c5be7b2406fdf474076e438b114bb6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\85e95779837446f560fde1566543d2e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\85e95779837446f560fde1566543d2e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\60a09e5ab1adaaba02610fee03b537a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\60a09e5ab1adaaba02610fee03b537a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\4dcf4145029239ba3e74f96b0b799ee4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\4dcf4145029239ba3e74f96b0b799ee4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\3439b362f8d154cf46153b223fd4b68c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\3439b362f8d154cf46153b223fd4b68c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a324c2bb4e33b05643ef8b96ccbc2419\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\a324c2bb4e33b05643ef8b96ccbc2419\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8b8b16c99676caabba5406a68019a752\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\8b8b16c99676caabba5406a68019a752\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\5d9dcfe0230ec2dc719dec073fb89461\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\onild\.gradle\caches\transforms-2\files-2.1\5d9dcfe0230ec2dc719dec073fb89461\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\onild\Desktop\HealthBoss\HealthBoss2\app\src\main\AndroidManifest.xml
